@@ -75,6 +75,8 @@ Responses will be returned as JSON objects.
 {
   "error": "Recipe not found"
 }
+
+
 UML
 Client Program       Microservice       Database
      |                   |                 |
